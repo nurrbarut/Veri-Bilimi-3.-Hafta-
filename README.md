@@ -1,2 +1,2 @@
-# Veri-Bilimi-3.-Hafta
+# Veri Bilimi 3.Hafta Ödevi
 Haftalık Ödev – Yaz Kampı: Veri Bilimi – Hafta 3
